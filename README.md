@@ -1,1 +1,1 @@
-# Amda-selling-pro-
+# java project
